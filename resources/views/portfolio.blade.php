@@ -47,11 +47,6 @@
                 <p class="text-light" style="text-align:center"><br>© <?php echo date("Y"); ?></p>
             </div>
         </div>
-        <div class="row">
-            <div class="col" style="background-color: #436191">
-                <p class="text-light" style="text-align:center"><br>© <?php echo date("Y"); ?></p>
-            </div>
-        </div>
     </div>
 
 
